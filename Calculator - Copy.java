@@ -15,7 +15,8 @@ public class Calculator{
 		
 	}
 	
-	public float bagi(float a, float b){
+	public float division(float a, float b){
 		return a/b;
+		//tes
 	}
 }
